@@ -1,8 +1,11 @@
 {
-  "main.css": "static/css/main.89de6b63.css",
-  "main.css.map": "static/css/main.89de6b63.css.map",
-  "main.js": "static/js/main.80956a70.js",
-  "main.js.map": "static/js/main.80956a70.js.map",
+  "main.css": "static/css/main.d7ea5576.css",
+  "main.css.map": "static/css/main.d7ea5576.css.map",
+  "main.js": "static/js/main.59d930d3.js",
+  "main.js.map": "static/js/main.59d930d3.js.map",
+  "static/media/ben_ilegbodu.jpg": "static/media/ben_ilegbodu.d1a3f900.jpg",
   "static/media/copley.jpg": "static/media/copley.8aea849b.jpg",
-  "static/media/hero.jpg": "static/media/hero.21de8e70.jpg"
+  "static/media/hero.jpg": "static/media/hero.21de8e70.jpg",
+  "static/media/natalie_qabazard.jpg": "static/media/natalie_qabazard.d677d30d.jpg",
+  "static/media/sasha_aickin.jpg": "static/media/sasha_aickin.2908ec49.jpg"
 }
