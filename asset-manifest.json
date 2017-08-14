@@ -1,11 +1,12 @@
 {
   "main.css": "static/css/main.36cc6a32.css",
   "main.css.map": "static/css/main.36cc6a32.css.map",
-  "main.js": "static/js/main.dcc74f7a.js",
-  "main.js.map": "static/js/main.dcc74f7a.js.map",
+  "main.js": "static/js/main.acfa249d.js",
+  "main.js.map": "static/js/main.acfa249d.js.map",
   "static/media/ari_rizzitano.jpg": "static/media/ari_rizzitano.6dc91e58.jpg",
   "static/media/ben_ilegbodu.jpg": "static/media/ben_ilegbodu.d1a3f900.jpg",
   "static/media/brendan_mcloughlin.jpg": "static/media/brendan_mcloughlin.18989742.jpg",
+  "static/media/brian_hough.jpg": "static/media/brian_hough.f6c2b87e.jpg",
   "static/media/christina_holland.jpg": "static/media/christina_holland.4e37d11b.jpg",
   "static/media/copley.jpg": "static/media/copley.8aea849b.jpg",
   "static/media/dhaivat_pandya.jpg": "static/media/dhaivat_pandya.f8cff767.jpg",
@@ -13,8 +14,11 @@
   "static/media/henry_zhu.jpg": "static/media/henry_zhu.f0d0aa2c.jpg",
   "static/media/hero.jpg": "static/media/hero.21de8e70.jpg",
   "static/media/ken_wheeler.jpg": "static/media/ken_wheeler.2ca232a9.jpg",
+  "static/media/kenton_jacobson.jpg": "static/media/kenton_jacobson.56b8653d.jpg",
   "static/media/marcel_cutts.jpg": "static/media/marcel_cutts.067a42f7.jpg",
+  "static/media/mark_erikson.jpg": "static/media/mark_erikson.8983c702.jpg",
   "static/media/natalie_qabazard.jpg": "static/media/natalie_qabazard.d677d30d.jpg",
   "static/media/sasha_aickin.jpg": "static/media/sasha_aickin.6b830684.jpg",
-  "static/media/theo_pak.jpg": "static/media/theo_pak.2b05657b.jpg"
+  "static/media/theo_pak.jpg": "static/media/theo_pak.2b05657b.jpg",
+  "static/media/vladimir_novick.jpg": "static/media/vladimir_novick.a6823027.jpg"
 }
